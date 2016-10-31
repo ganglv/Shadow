@@ -1,0 +1,11 @@
+platform:ios,'8.0'
+
+target 'EarlyShadow' do
+pod 'AFNetworking', '~> 3.1.0'
+pod 'SDWebImage', '~> 3.7.6'
+pod 'MJRefresh', '~> 3.1.0'
+pod 'MJExtension', '~> 3.0.10'
+pod 'Masonry'
+pod 'SDCycleScrollView'
+pod 'YYModel'
+end
